@@ -34,7 +34,7 @@ section{
     font-weight: 700;
 }
 
-#top-banner{
+.top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
@@ -43,7 +43,7 @@ section{
     margin: 17px 0;
 }
 
-#dream-big{
+.dream-big{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
